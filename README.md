@@ -17,7 +17,7 @@ Please take a look at my recent work and feel free to contact me!
 - Next JS
 - Redux
 
-#### Front-end technologies
+#### Back-end technologies
 - Node JS
 - Express JS
 - PostgreSQL - Sequelize
